@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst
 ------------
 
-I'm a biotechnologist with interest in the field of drug development. I'm currently pursuing my master's in Health Informatics. During my master's degree I got interested in machine learning applications for healthcare. Four months in, I got my first internship as a scRNA seq data curator at Elucidata. Everyday, I learn to appreciate the benefits of AI in the field of healthcare even more!
+I'm a biotechnologist with interest in the field of drug development. I'm currently pursuing my master's in Health Informatics. During my master's degree I got interested in machine learning applications for healthcare. After four months of self learning, I got my first internship as a scRNA seq data curator at Elucidata. Everyday, I learn to appreciate the benefits of AI in the field of healthcare even more!
 
 * 🌍  I'm based in Hyderabad, India
 * ✉️  You can contact me at [ramakrishnanshreya@gmail.com](mailto:ramakrishnanshreya@gmail.com)
