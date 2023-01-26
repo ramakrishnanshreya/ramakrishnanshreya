@@ -1,16 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shreya Ramakrishnan
+Hi !👋 I'm Shreya 
 ===========================================================================================================================================
 
-Aspiring Data Scientist
-------------
+I'm a graduate biotechnologist with interest in the field of drug development. I'm currently pursuing my master's in Health Informatics. During my master's degree I got interested in data science applications for clinical data. After four months of self learning, I got my first internship as a scRNA seq data curator at Elucidata. 
 
-I'm a biotechnologist with interest in the field of drug development. I'm currently pursuing my master's in Health Informatics. During my master's degree I got interested in machine learning applications for healthcare. After four months of self learning, I got my first internship as a scRNA seq data curator at Elucidata. Everyday, I learn to appreciate the benefits of AI in the field of healthcare even more!
+I'm also currently a primary healthcare researcher at HI Rapid Lab, Indian Institute of Public Health. This research position helped me gain valuable insights on data visualization concepts for real world hospital data.  
 
-* 🌍  I'm based in Hyderabad, India
-* ✉️  You can contact me at [ramakrishnanshreya@gmail.com](mailto:ramakrishnanshreya@gmail.com)
 * 🚀  I'm currently working on [scRNA seq data curation](http://www.elucidata.io/solutions/polly-for-bioinformaticians)
 * 🧠  I'm learning TensorFlow for computer vision applications
 * 🤝  I'm open to collaborating on machine learning projects
+* ✉️  You can contact me at [ramakrishnanshreya@gmail.com](mailto:ramakrishnanshreya@gmail.com)
 
 ### Skills
 
