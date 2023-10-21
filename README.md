@@ -1,4 +1,4 @@
-zHi !👋 I'm Shreya 
+Hi !👋 I'm Shreya 
 ===========================================================================================================================================
 
 I'm a graduate biotechnologist with interest in automating healthcare data pipelines. I'm currently pursuing my master's in Health Informatics. During my master's degree I got interested in the applications of supervised learning for healthcare. 
