@@ -5,9 +5,9 @@ I'm a graduate biotechnologist with interest in automating healthcare data pipel
 
 I'm also a researcher in the field of primary healthcare at HI Rapid Lab, Indian Institute of Public Health. This research role helped me gain valuable insights on the processes involved in data cleaning and visualisation for real world data.  
 
-* 🚀  I'm currently working on creating data pipelines for a healthcare app called COMPREHENSIV at [HI Rapid Lab](https://hirapidlab.com/)
-* 🧠  I'm learning TensorFlow for computer vision applications
-* 🤝  I'm open to collaborating on machine learning projects
+* 🚀  I'm currently working on creating dashboards to derive insights for a healthcare app called COMPREHENSIV at [HI Rapid Lab](https://hirapidlab.com/)
+* 🧠  I'm learning SQL and cloud platforms 
+* 🤝  I'm open to collaborating on open source data analysis projects
 * ✉️  You can contact me at [ramakrishnanshreya@gmail.com](mailto:ramakrishnanshreya@gmail.com)
 
 ### Skills
