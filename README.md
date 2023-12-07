@@ -1,9 +1,9 @@
 Hi !👋 I'm Shreya 
 ===========================================================================================================================================
 
-I'm a graduate biotechnologist with interest in automating healthcare data pipelines. I'm currently pursuing my master's in Health Informatics. During my master's degree I got interested in the applications of supervised learning for healthcare. 
+I'm a graduate biotechnologist with interest in automating routine healthcare data monitoring tasks. I'm currently pursuing my master's in Health Informatics. During my master's degree I got interested in the applications of supervised learning for healthcare. 
 
-I'm also a researcher in the field of primary healthcare at HI Rapid Lab, Indian Institute of Public Health. This research role helped me gain valuable insights on the processes involved in data cleaning and visualisation for real world data.  
+I'm also a researcher in the field of primary healthcare at HI Rapid Lab, Indian Institute of Public Health. This research role helped me gain valuable insights on the processes involved in end-to-end data analysis projects for real world data including data cleaning and visualisation.  
 
 * 🚀  I'm currently working on creating streamlit apps to derive analytical insights for a healthcare app called COMPREHENSIV at [HI Rapid Lab](https://hirapidlab.com/)
 * 🧠  I'm learning SQL and cloud platforms 
