@@ -1,9 +1,11 @@
 Hi !👋 I'm Shreya 
 ===========================================================================================================================================
 
-I'm a graduate Health Informatician with interest in introducing Gen AI for healthcare applications. 
+I'm a graduate Health Informatician with interest in introducing multimodal AI for healthcare applications. 
 
-I'm also a Consultant Researcher in the field of digital health at [HI Rapid Lab](https://hirapidlab.com/). This research role helped me gain valuable insights on the processes involved in end-to-end data science projects for real world impact.  
+I have worked on projects involving disease monitoring, survey data analysis, data curation and generative AI for primary healthcare. 
+
+Beyond technical research, I also have a keen interest in the geopolitical landscape of AI, AI policy, and its implications on global healthcare and governance. Passionate about bridging the gap between AI research, policy, and real-world applications, I continuously work on innovative solutions to improve patient outcomes and shape responsible AI deployment.
 
 * 🔬 Research Interests: Primary Healthcare, Digital Health, Large Language Models, Computer Vision.
 * 🧠  I'm learning PyTorch and Langchain 
